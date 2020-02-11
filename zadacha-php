@@ -1,0 +1,6 @@
+style type="text/css"
+.banner {
+width: 200px;
+height: 100px; }
+/style
+img class="banner" src="image.png"/
